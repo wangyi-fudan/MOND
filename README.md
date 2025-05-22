@@ -1,3 +1,3 @@
 # MOND
 
-# $a= \sqrt{a{N}(a{N}+a{0}}$
+# $a= \sqrt{a_{N}(a_{N}+a_{0}}$
